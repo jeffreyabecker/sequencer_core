@@ -1,5 +1,5 @@
-from Midi import NoteOff, NoteOn, Drums
-from EventScheduler import EventScheduler
+from midi import NoteOff, NoteOn, Drums
+from event_scheduler import EventScheduler
 
 
 class Beat:
